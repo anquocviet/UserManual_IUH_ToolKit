@@ -13,7 +13,7 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 -  Tự động điền khảo sát (nếu có) khi đăng nhập vào trang sinh viên
 -  Xem điểm, lịch học nhanh chóng mà không cần đăng nhập
    > Chỉ cần nhập key lần đầu
--  Tính điểm của học phần trên trang https://sv.iuh.edu.vn/ket-qua-hoc-tap.html
+-  Tính điểm của học phần trên hệ thống của trường, giao diện dành cho sinh viên và phụ huynh
 
 ## Hướng dẫn sử dụng:
 
@@ -30,9 +30,10 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 
 ## Cập nhật phiên bản
 
-**Update version 1.0.1**
+**Update version 1.0.2**
 
--  Fix lỗi không tính điểm được trên xem điểm trang dành cho phụ huynh
+- Fix lỗi tính điểm
+- Cập nhật tính điểm trung bình của học kỳ, điểm tích lũy
 
 ## Liên hệ:
 
