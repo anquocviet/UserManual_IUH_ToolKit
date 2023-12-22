@@ -14,6 +14,7 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 -  Xem điểm, lịch học nhanh chóng mà không cần đăng nhập
    > Chỉ cần nhập key lần đầu
 -  Tính điểm của học phần trên hệ thống của trường, giao diện dành cho sinh viên và phụ huynh
+-  Thay đổi ảnh đại diện trên trang sinh viên
 
 ## Hướng dẫn sử dụng:
 
@@ -30,10 +31,12 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 
 ## Cập nhật phiên bản
 
-**Update version 1.0.2**
+**Update version 1.0.3**
 
+- Cập nhật tính năng thay đổi ảnh đại diện trên trang sinh viên
+- Cập nhật giao diện
+- Fix lỗi mất key sau mỗi lần cập nhật (sẽ không bị mất key cho lần cập nhật tiếp theo)
 - Fix lỗi tính điểm
-- Cập nhật tính điểm trung bình của học kỳ, điểm tích lũy
 
 ## Liên hệ:
 
