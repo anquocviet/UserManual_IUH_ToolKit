@@ -4,6 +4,7 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 
 -  [Các tính năng](#các-tính-năng)
 -  [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
+   -  [Hướng dẫn thay đổi ảnh đại diện](#hướng-dẫn-thay-đổi-ảnh-đại-diện)
    -  [Hướng dẫn lấy key](#hướng-dẫn-lấy-key)
 -  [Cập nhật phiên bản](#cập-nhật-phiên-bản)
 -  [Liên hệ](#liên-hệ)
@@ -14,9 +15,13 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 -  Xem điểm, lịch học nhanh chóng mà không cần đăng nhập
    > Chỉ cần nhập key lần đầu
 -  Tính điểm của học phần trên hệ thống của trường, giao diện dành cho sinh viên và phụ huynh
--  Thay đổi ảnh đại diện trên trang sinh viên
+-  Thay đổi ảnh đại diện trên trang sinh viên (chỉ thay đổi về mặt giao diện trên máy của bạn)
 
 ## Hướng dẫn sử dụng:
+
+### Hướng dẫn thay đổi ảnh đại diện
+Đăng nhập vào hệ thống của trường vào nhấn chọn đổi ảnh đại diện
+![Thay đổi ảnh đại diện](./images/change-avatar.png)
 
 ### Hướng dẫn lấy key
 
