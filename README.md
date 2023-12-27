@@ -31,12 +31,9 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 
 ## Cập nhật phiên bản
 
-**Update version 1.0.3**
+**Update version 1.0.4**
 
-- Cập nhật tính năng thay đổi ảnh đại diện trên trang sinh viên
-- Cập nhật giao diện
-- Fix lỗi mất key sau mỗi lần cập nhật (sẽ không bị mất key cho lần cập nhật tiếp theo)
-- Fix lỗi tính điểm
+- Sửa lỗi tính điểm tổng kết của kỳ
 
 ## Liên hệ:
 
