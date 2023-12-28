@@ -1,4 +1,4 @@
-# IUH_Toolkit
+<img width="1424" alt="image" src="https://github.com/anquocviet/UserManual_IUH_ToolKit/assets/69392585/0c85b77f-32ef-4e4e-ae84-fb4fecc754be"># IUH_Toolkit
 
 Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống trang web của trường
 
@@ -36,9 +36,10 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 
 ## Cập nhật phiên bản
 
-**Update version 1.0.4**
+**Update version 1.0.5**
 
-- Sửa lỗi tính điểm tổng kết của kỳ
+- Sửa lỗi tính điểm tổng kết trung bình kỳ
+- Sửa lỗi tính điểm ở kỳ đầu tiên năm nhất
 
 ## Liên hệ:
 
