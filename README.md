@@ -1,5 +1,3 @@
-<img width="1424" alt="image" src="https://github.com/anquocviet/UserManual_IUH_ToolKit/assets/69392585/0c85b77f-32ef-4e4e-ae84-fb4fecc754be"># IUH_Toolkit
-
 Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống trang web của trường
 
 -  [Các tính năng](#các-tính-năng)
