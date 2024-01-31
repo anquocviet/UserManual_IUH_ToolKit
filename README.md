@@ -36,10 +36,10 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 
 ## Cập nhật phiên bản
 
-**Update version 1.0.5**
+**Update version 1.0.6**
 
-- Sửa lỗi tính điểm tổng kết trung bình kỳ
-- Sửa lỗi tính điểm ở kỳ đầu tiên năm nhất
+- Sửa lỗi tính điểm
+- Cập nhật tính năng reset ảnh đại diện
 
 ## Liên hệ:
 
