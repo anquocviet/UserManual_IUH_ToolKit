@@ -36,10 +36,10 @@ Extension hỗ trợ sinh viên IUH thao tác dễ dàng hơn trên hệ thống
 
 ## Cập nhật phiên bản
 
-**Update version 1.0.6**
+**Update version 1.0.7**
 
 - Sửa lỗi tính điểm
-- Cập nhật tính năng reset ảnh đại diện
+- Sửa lỗi đổi ảnh đại diện
 
 ## Liên hệ:
 
